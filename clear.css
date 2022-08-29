@@ -1,0 +1,96 @@
+p {
+    font-family: Arial;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    margin: 40px;
+    color: grey;
+    text-align: justify;
+}
+
+header img {
+    height: 40px;
+    padding-top: 5px;
+    padding-left: 150px;
+}
+
+ul {
+    align-items: center;
+    color: orange
+}
+
+.login img {
+    height: 20px;
+}
+
+#service {
+    width: 90%;
+}
+
+.content {
+    background-image: url(p2.jpg);
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: white;
+    height: 400px;
+    padding-left: 200px;
+    padding-top: 45px;
+    width: 1200px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+select {
+    margin-bottom: 10px;
+    width: 500px;
+    color: lightgrey;
+    height: 36px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+input {
+    margin-bottom: 10px;
+    width: 500px;
+    height: 30px;
+    font-size: 15px;
+}
+
+.help {
+    color: white;
+    background-color: green;
+    width: 50px;
+    text-align: left;
+}
+
+.logo {
+    background-color: orange;
+    color: white;
+    height: 40px;
+    border-radius: 1em;
+    border: 0;
+    width: 500px;
+    margin-top: 20px;
+}
+
+.foot {
+    color: grey;
+    text-align: center;
+    padding-bottom: 30px;
+    margin-top: -30px;
+    padding-left: 100px;
+    font-size: medium;
+}
